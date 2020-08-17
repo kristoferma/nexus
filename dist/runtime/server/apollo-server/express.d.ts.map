@@ -1,0 +1,1 @@
+{"version":3,"file":"express.d.ts","sourceRoot":"","sources":["../../../../src/runtime/server/apollo-server/express.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,yBAAyB,EAAE,MAAM,uBAAuB,CAAA;AAC/E,OAAO,EAAE,YAAY,EAAE,MAAM,SAAS,CAAA;AAEtC,qBAAa,mBAAoB,SAAQ,YAAY;gBACvC,MAAM,EAAE,YAAY,CAAC,yBAAyB,CAAC;CAG5D"}

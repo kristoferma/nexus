@@ -1,0 +1,1 @@
+{"version":3,"file":"error-formatter.d.ts","sourceRoot":"","sources":["../../../src/runtime/server/error-formatter.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,YAAY,EAAE,MAAM,EAAE,cAAc,EAAE,MAAM,SAAS,CAAA;AAS9D,wBAAgB,cAAc,CAAC,YAAY,EAAE,YAAY,gBA8BxD;AAED;;;GAGG;AACH,wBAAgB,mBAAmB,CAAC,MAAM,EAAE,MAAM,EAAE,cAAc,EAAE,cAAc,GAAG,MAAM,CAuC1F"}

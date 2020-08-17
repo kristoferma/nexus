@@ -33,7 +33,6 @@
 .nyc_output
 .yarn-integrity
 /.nyc_output
-/dist
 /lib
 /package-lock.json
 /tmp
@@ -53,7 +52,6 @@ yarn-error.log*
 
 .DS_Store
 .vscode
-dist*
 *.tsbuildinfo
 
 .now
